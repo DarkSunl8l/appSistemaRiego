@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnknownTwo</string>
+    <string name="btnaboutUs">Sobre Nosotros</string>
+    <string name="textaboutUs">Sobre Nosotros</string>
+    <string name="textMenu">Página principal</string>
+    <string name="contenaboutUs">Bienvenidos a la aplicación de riego automático, tu compañero confiable para mantener tus plantas saludables. En Riego Automático, estamos dedicados a simplificar y mejorar tu experiencia en el cuidado de tus plantas y jardines.</string>
+</resources>

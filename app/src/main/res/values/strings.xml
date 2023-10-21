@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnknownTwo</string>
+    <string name="btnaboutUs">About us</string>
+    <string name="textaboutUs">About us</string>
+    <string name="textMenu">Homepage</string>
+    <string name="contenaboutUs"> Welcome to the automatic watering app, your reliable companion to keep your plants healthy. At Automatic Irrigation, we are dedicated to simplifying and improving your experience in caring for your plants and gardens.</string>
+</resources>
